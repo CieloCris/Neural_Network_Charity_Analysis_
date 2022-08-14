@@ -1,6 +1,3 @@
-# Neural_Network_Charity_Analysis_
-
-
 # Neural Network Charity Analysis
 
 ## Overview
